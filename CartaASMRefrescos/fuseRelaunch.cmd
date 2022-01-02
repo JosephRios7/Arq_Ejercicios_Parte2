@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/CartaASMRefrescos/maquinaTB_isim_beh.exe" -prj "C:/.Xilinx/CartaASMRefrescos/maquinaTB_beh.prj" "work.maquinaTB" 

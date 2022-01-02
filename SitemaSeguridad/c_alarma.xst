@@ -1,0 +1,5 @@
+set -tmpdir "C:/.Xilinx/SitemaSeguridad/xst/projnav.tmp"
+set -xsthdpdir "C:/.Xilinx/SitemaSeguridad/xst"
+elaborate
+-ifn c_alarma.prj
+-ifmt mixed

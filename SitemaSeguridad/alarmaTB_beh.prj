@@ -1,0 +1,2 @@
+vhdl work "c_alarma.vhd"
+vhdl work "alarmaTB.vhd"

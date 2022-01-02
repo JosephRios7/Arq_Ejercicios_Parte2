@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/SitemaSeguridad/alarmaTB_isim_beh.exe" -prj "C:/.Xilinx/SitemaSeguridad/alarmaTB_beh.prj" "work.alarmaTB" 

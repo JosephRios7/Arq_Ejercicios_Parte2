@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/.Xilinx/CartasASM/trenTB_isim_beh.exe" -prj "C:/.Xilinx/CartasASM/trenTB_beh.prj" "work.trenTB" 
